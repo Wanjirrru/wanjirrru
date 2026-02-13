@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://placehold.co/1200x200/ffeff8/d16ba5/png?text=Hello!👋+I'm+Melissa+Wanjiru&font=Playfair+Display" alt="Header Banner" width="800"/>
+  <img src="https://placehold.co/1200x200/ffeff8/d16ba5/png?text=Hello!+I'm+Melissa+Wanjiru&font=Playfair+Display" alt="Header Banner" width="800"/>
   <h3>🌸 Full-Stack Developer • DevOps Engineer</h3>
   <p>Building reliable cloud-native systems with a love for clean code and elegant solutions.<br>
   Based in Nairobi 🇰🇪 • Passionate about Kubernetes, automation & modern web/mobile development.</p>
