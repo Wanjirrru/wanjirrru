@@ -88,20 +88,20 @@
 ---
 
 <div align="center">
-  <h3>📊 GitHub Overview</h3>
+  <h3>📊 GitHub Overview 🌸</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wanjirrru&bg_color=ffeff8&color=d16ba5&line=f672b0&point=f8a5c2&area=true&hide_border=true" width="800"/><br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=wanjirrru&show_icons=true&theme=calm_pink&hide_border=true&bg_color=ffeff8&title_color=d16ba5&icon_color=f672b0&text_color=333" width="420"/>
-  <img src="https://streak-stats.demolab.com?user=wanjirrru&theme=calm_pink&background=ffeff8&ring=f672b0&fire=f8a5c2&currStreakLabel=d16ba5&hide_border=true" width="420"/><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=wanjirrru&show_icons=true&theme=transparent&hide_border=true&bg_color=ffeff8&title_color=d16ba5&icon_color=f672b0&text_color=333333&border_color=f8a5c2" width="420"/>
+  <img src="https://streak-stats.demolab.com?user=wanjirrru&background=ffeff8&ring=f672b0&fire=f8a5c2&currStreakLabel=d16ba5&dates=333333&hide_border=true" width="420"/><br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanjirrru&layout=compact&theme=calm_pink&hide_border=true&bg_color=ffeff8&title_color=d16ba5&text_color=333" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanjirrru&layout=compact&theme=transparent&hide_border=true&bg_color=ffeff8&title_color=d16ba5&text_color=333333&border_color=f8a5c2" width="420"/>
 </div>
 
 ---
 
 <div align="center">
   <h3>🏆 Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=wanjirrru&theme=rose&no-frame=true&margin-w=15&column=4" width="800"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=wanjirrru&theme=juicyfresh&no-frame=true&margin-w=15&column=4" width="800"/>
 </div>
 
 <div align="center">
